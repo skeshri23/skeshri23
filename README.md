@@ -3,6 +3,11 @@
 Computer Science graduate with interests in **AI/ML, computer vision, and applied software engineering**.  
 I enjoy building practical systems that combine strong fundamentals with real-world usability.
 
+## Currently
+- Building HireHub (full-stack + AI/ML)
+- Practicing Data Structures & Algorithms on LeetCode
+
+🔗 https://leetcode.com/skeshri23
 ---
 
 ## 🔧 Technical Skills
@@ -18,6 +23,7 @@ React, Flask, PostgreSQL, Supabase, HTML, CSS
 
 **Tools & Systems**  
 Git, GitHub, Linux, Docker, VS Code
+
 
 ---
 
